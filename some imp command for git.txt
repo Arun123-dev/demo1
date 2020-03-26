@@ -1,0 +1,27 @@
+14:-git rm --cached file name (for delete file from staging area only)
+15: git log  (show all your commit in your file)
+16: git diff commit ids (show difference between commit and stanging state files)
+17:git checkout -f  (back your file in privious stage befor your last commit)
+18:-git log -p -2 (show two commit for file)
+19:-git status -s (show all modification in your different files at a time)
+20:-touch .gitignore (creat .gitignore file in your dir)
+21: git commit -a -m "skipped staging area and fixed <" (at a time commit all file and fixed)
+
+Note:- branch is another copy of your directory with file, when you want to test something in live
+       envirment, then you create it.
+22:-git branch and branch name (create new brance in your master)
+23:- git branch (show all branches)
+24:- git checkout brance name (switch in one brance  another)
+25:- git checkout -b branch name (create and direct switch in branch)
+
+Note:- For merge some changes from one brance to another run merge command in master branch.
+26:-git merge and branche name (merge all changes from other branch to master branch)
+27:-git -checkout -b branch name (use to crate branch and also enter it)
+28:-git remote and url (to add git hub repo in local machine)
+29:-git remote (show remote repo)
+30:-git remote -v (to show repo url for fetch and push )
+31:-git push repo name master (push master dir to git hub repo)
+
+
+
+
